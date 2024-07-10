@@ -11,7 +11,7 @@
   > This initial project will equip us with a reusable PV model to be utilized later in the course.  
 
 - **Find Break-even Point for Electricity Fixation Price vs. Spot Market Participation**  
-  > The second project aims at solving an interesting question.  
+  > The second project aims at solving an interesting question and adds optimlaization aspects to the workflow.  
   > This project should equip you with an algorithm that determines at what price and with what certainty fixation is economical compared to spot market participation.  
   > For this project, we will employ basic statistics, limited machine learning, and principles of energy modeling.
 
