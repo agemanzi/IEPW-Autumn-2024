@@ -1,14 +1,12 @@
 # IEPW-Autumn-2024
 
 
-## Features
+## Expected projects
 
-- Import a HTML file and watch it magically convert to Markdown
+- Find brake even point for electricity fixation price vs spot market participation 
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Fisrt project that dives in to reneawble energy sector 
+> this project should equip you with a algorithm that finds at what price and with what certainty is fixation economical 
+> when compared with spot market participation.
+> For this project we will use basic statistics and limited machine learning as well as principles of energy modeling.
+
